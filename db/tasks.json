@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Take a nap",
+    "completed": true,
+    "id": 3
+  },
+  {
+    "title": "pay bills now",
+    "completed": true,
+    "id": 4
+  },
+  {
+    "title": "update shopping list",
+    "completed": true,
+    "id": 6
+  },
+  {
+    "title": "Coding tasks",
+    "completed": false,
+    "id": 7
+  }
+]
